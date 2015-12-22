@@ -1,0 +1,9 @@
+D:\Users\dgaillar\Desktop\Dossier Personnel\XMLExtractor\XMLExtractor\XMLExtractor\bin\Debug\XMLExtractor.exe.config
+D:\Users\dgaillar\Desktop\Dossier Personnel\XMLExtractor\XMLExtractor\XMLExtractor\bin\Debug\XMLExtractor.exe
+D:\Users\dgaillar\Desktop\Dossier Personnel\XMLExtractor\XMLExtractor\XMLExtractor\bin\Debug\XMLExtractor.pdb
+D:\Users\dgaillar\Desktop\Dossier Personnel\XMLExtractor\XMLExtractor\XMLExtractor\obj\Debug\XMLExtractor.csprojResolveAssemblyReference.cache
+D:\Users\dgaillar\Desktop\Dossier Personnel\XMLExtractor\XMLExtractor\XMLExtractor\obj\Debug\XMLExtractor.Properties.Resources.resources
+D:\Users\dgaillar\Desktop\Dossier Personnel\XMLExtractor\XMLExtractor\XMLExtractor\obj\Debug\XMLExtractor.csproj.GenerateResource.Cache
+D:\Users\dgaillar\Desktop\Dossier Personnel\XMLExtractor\XMLExtractor\XMLExtractor\obj\Debug\XMLExtractor.exe
+D:\Users\dgaillar\Desktop\Dossier Personnel\XMLExtractor\XMLExtractor\XMLExtractor\obj\Debug\XMLExtractor.pdb
+D:\Users\dgaillar\Desktop\Dossier Personnel\XMLExtractor\XMLExtractor\XMLExtractor\obj\Debug\XMLExtractor.MainWindows.resources
